@@ -1,4 +1,5 @@
 # WordPress Jabber Site
 
-+ item
-+ item
++ Create a folder --- theme folder
++ index.php and style.css
++ upload these files to wordpress 
